@@ -1,0 +1,4923 @@
+{
+    "1": {
+        "coords": {
+            "x": 47,
+            "y": 994,
+            "z": 229
+        },
+        "edges": [
+            7,
+            6,
+            5
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 1
+    },
+    "10": {
+        "coords": {
+            "x": 202,
+            "y": 1388,
+            "z": 187
+        },
+        "edges": [
+            17,
+            3,
+            13
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 10
+    },
+    "100": {
+        "coords": {
+            "x": 1019,
+            "y": 1058,
+            "z": 105
+        },
+        "edges": [
+            106,
+            102,
+            113
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 100
+    },
+    "101": {
+        "coords": {
+            "x": 1031,
+            "y": 910,
+            "z": 93
+        },
+        "edges": [
+            99,
+            102,
+            97
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 101
+    },
+    "102": {
+        "coords": {
+            "x": 1027,
+            "y": 962,
+            "z": 84
+        },
+        "edges": [
+            99,
+            101,
+            100
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 102
+    },
+    "103": {
+        "coords": {
+            "x": 1017,
+            "y": 1685,
+            "z": 223
+        },
+        "edges": [
+            98,
+            80,
+            107
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 103
+    },
+    "104": {
+        "coords": {
+            "x": 1113,
+            "y": 691,
+            "z": 139
+        },
+        "edges": [
+            110,
+            115,
+            124
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 104
+    },
+    "105": {
+        "coords": {
+            "x": 1084,
+            "y": 871,
+            "z": 127
+        },
+        "edges": [
+            101,
+            97,
+            109
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 105
+    },
+    "106": {
+        "coords": {
+            "x": 1083,
+            "y": 1040,
+            "z": 130
+        },
+        "edges": [
+            113,
+            114,
+            100
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 106
+    },
+    "107": {
+        "coords": {
+            "x": 1104,
+            "y": 1545,
+            "z": 229
+        },
+        "edges": [
+            98,
+            103,
+            120
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 107
+    },
+    "108": {
+        "coords": {
+            "x": 1088,
+            "y": 459,
+            "z": 154
+        },
+        "edges": [
+            121,
+            122,
+            132
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 108
+    },
+    "109": {
+        "coords": {
+            "x": 1098,
+            "y": 786,
+            "z": 128
+        },
+        "edges": [
+            112,
+            110,
+            105
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 109
+    },
+    "11": {
+        "coords": {
+            "x": 201,
+            "y": 1560,
+            "z": 223
+        },
+        "edges": [
+            9,
+            16,
+            20
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 11
+    },
+    "110": {
+        "coords": {
+            "x": 1142,
+            "y": 721,
+            "z": 135
+        },
+        "edges": [
+            104,
+            124,
+            112
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 110
+    },
+    "111": {
+        "coords": {
+            "x": 1122,
+            "y": 300,
+            "z": 224
+        },
+        "edges": [
+            122,
+            121,
+            108
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 111
+    },
+    "112": {
+        "coords": {
+            "x": 1136,
+            "y": 795,
+            "z": 121
+        },
+        "edges": [
+            109,
+            110,
+            105
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 112
+    },
+    "113": {
+        "coords": {
+            "x": 1119,
+            "y": 1013,
+            "z": 151
+        },
+        "edges": [
+            114,
+            106,
+            119
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 113
+    },
+    "114": {
+        "coords": {
+            "x": 1126,
+            "y": 1037,
+            "z": 167
+        },
+        "edges": [
+            113,
+            106,
+            119
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 114
+    },
+    "115": {
+        "coords": {
+            "x": 1157,
+            "y": 640,
+            "z": 147
+        },
+        "edges": [
+            104,
+            125,
+            124
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 115
+    },
+    "116": {
+        "coords": {
+            "x": 1148,
+            "y": 1219,
+            "z": 148
+        },
+        "edges": [
+            136,
+            117,
+            140
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 116
+    },
+    "117": {
+        "coords": {
+            "x": 1173,
+            "y": 1140,
+            "z": 128
+        },
+        "edges": [
+            116,
+            114,
+            106
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 117
+    },
+    "118": {
+        "coords": {
+            "x": 1161,
+            "y": 911,
+            "z": 118
+        },
+        "edges": [
+            126,
+            119,
+            105
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 118
+    },
+    "119": {
+        "coords": {
+            "x": 1166,
+            "y": 978,
+            "z": 126
+        },
+        "edges": [
+            113,
+            118,
+            114
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 119
+    },
+    "12": {
+        "coords": {
+            "x": 145,
+            "y": 354,
+            "z": 221
+        },
+        "edges": [
+            26,
+            27,
+            23
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 12
+    },
+    "120": {
+        "coords": {
+            "x": 1230,
+            "y": 1432,
+            "z": 222
+        },
+        "edges": [
+            123,
+            107,
+            136
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 120
+    },
+    "121": {
+        "coords": {
+            "x": 1184,
+            "y": 442,
+            "z": 149
+        },
+        "edges": [
+            122,
+            132,
+            108
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 121
+    },
+    "122": {
+        "coords": {
+            "x": 1185,
+            "y": 386,
+            "z": 173
+        },
+        "edges": [
+            121,
+            111,
+            108
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 122
+    },
+    "123": {
+        "coords": {
+            "x": 1299,
+            "y": 1574,
+            "z": 226
+        },
+        "edges": [
+            154,
+            120,
+            107
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 123
+    },
+    "124": {
+        "coords": {
+            "x": 1207,
+            "y": 705,
+            "z": 143
+        },
+        "edges": [
+            134,
+            110,
+            115
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 124
+    },
+    "125": {
+        "coords": {
+            "x": 1212,
+            "y": 594,
+            "z": 151
+        },
+        "edges": [
+            115,
+            132,
+            124
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 125
+    },
+    "126": {
+        "coords": {
+            "x": 1207,
+            "y": 877,
+            "z": 129
+        },
+        "edges": [
+            127,
+            118,
+            139
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 126
+    },
+    "127": {
+        "coords": {
+            "x": 1235,
+            "y": 849,
+            "z": 125
+        },
+        "edges": [
+            126,
+            135,
+            139
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 127
+    },
+    "128": {
+        "coords": {
+            "x": 1253,
+            "y": 976,
+            "z": 94
+        },
+        "edges": [
+            83,
+            143,
+            119
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 128
+    },
+    "129": {
+        "coords": {
+            "x": 1212,
+            "y": 52,
+            "z": 241
+        },
+        "edges": [
+            130,
+            131,
+            133
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 129
+    },
+    "13": {
+        "coords": {
+            "x": 300,
+            "y": 1322,
+            "z": 149
+        },
+        "edges": [
+            29,
+            17,
+            10
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 13
+    },
+    "130": {
+        "coords": {
+            "x": 1232,
+            "y": 46,
+            "z": 239
+        },
+        "edges": [
+            129,
+            131,
+            133
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 130
+    },
+    "131": {
+        "coords": {
+            "x": 1313,
+            "y": 103,
+            "z": 235
+        },
+        "edges": [
+            130,
+            133,
+            129
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 131
+    },
+    "132": {
+        "coords": {
+            "x": 1253,
+            "y": 501,
+            "z": 137
+        },
+        "edges": [
+            137,
+            121,
+            125
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 132
+    },
+    "133": {
+        "coords": {
+            "x": 1268,
+            "y": 196,
+            "z": 226
+        },
+        "edges": [
+            131,
+            130,
+            129
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 133
+    },
+    "134": {
+        "coords": {
+            "x": 1267,
+            "y": 709,
+            "z": 142
+        },
+        "edges": [
+            124,
+            138,
+            135
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 134
+    },
+    "135": {
+        "coords": {
+            "x": 1290,
+            "y": 810,
+            "z": 118
+        },
+        "edges": [
+            139,
+            127,
+            145
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 135
+    },
+    "136": {
+        "coords": {
+            "x": 1186,
+            "y": 1268,
+            "z": 176
+        },
+        "edges": [
+            116,
+            140,
+            117
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 136
+    },
+    "137": {
+        "coords": {
+            "x": 1320,
+            "y": 490,
+            "z": 107
+        },
+        "edges": [
+            132,
+            142,
+            156
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 137
+    },
+    "138": {
+        "coords": {
+            "x": 1307,
+            "y": 649,
+            "z": 129
+        },
+        "edges": [
+            146,
+            134,
+            149
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 138
+    },
+    "139": {
+        "coords": {
+            "x": 1306,
+            "y": 853,
+            "z": 113
+        },
+        "edges": [
+            135,
+            145,
+            148
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 139
+    },
+    "14": {
+        "coords": {
+            "x": 299,
+            "y": 966,
+            "z": 134
+        },
+        "edges": [
+            22,
+            24,
+            42
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 14
+    },
+    "140": {
+        "coords": {
+            "x": 1316,
+            "y": 1245,
+            "z": 157
+        },
+        "edges": [
+            144,
+            136,
+            116
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 140
+    },
+    "141": {
+        "coords": {
+            "x": 1336,
+            "y": 315,
+            "z": 151
+        },
+        "edges": [
+            153,
+            158,
+            142
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 141
+    },
+    "142": {
+        "coords": {
+            "x": 1366,
+            "y": 433,
+            "z": 69
+        },
+        "edges": [
+            137,
+            153,
+            158
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 142
+    },
+    "143": {
+        "coords": {
+            "x": 1329,
+            "y": 985,
+            "z": 82
+        },
+        "edges": [
+            128,
+            83,
+            157
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 143
+    },
+    "144": {
+        "coords": {
+            "x": 1350,
+            "y": 1140,
+            "z": 84
+        },
+        "edges": [
+            152,
+            161,
+            140
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 144
+    },
+    "145": {
+        "coords": {
+            "x": 1342,
+            "y": 885,
+            "z": 119
+        },
+        "edges": [
+            148,
+            139,
+            150
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 145
+    },
+    "146": {
+        "coords": {
+            "x": 1352,
+            "y": 596,
+            "z": 120
+        },
+        "edges": [
+            149,
+            138,
+            155
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 146
+    },
+    "147": {
+        "coords": {
+            "x": 1425,
+            "y": 210,
+            "z": 230
+        },
+        "edges": [
+            163,
+            169,
+            131
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 147
+    },
+    "148": {
+        "coords": {
+            "x": 1370,
+            "y": 861,
+            "z": 123
+        },
+        "edges": [
+            150,
+            145,
+            139
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 148
+    },
+    "149": {
+        "coords": {
+            "x": 1377,
+            "y": 599,
+            "z": 131
+        },
+        "edges": [
+            146,
+            155,
+            156
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 149
+    },
+    "15": {
+        "coords": {
+            "x": 348,
+            "y": 132,
+            "z": 228
+        },
+        "edges": [
+            35,
+            39,
+            23
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 15
+    },
+    "150": {
+        "coords": {
+            "x": 1379,
+            "y": 838,
+            "z": 119
+        },
+        "edges": [
+            148,
+            145,
+            139
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 150
+    },
+    "151": {
+        "coords": {
+            "x": 1384,
+            "y": 753,
+            "z": 98
+        },
+        "edges": [
+            150,
+            155,
+            162
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 151
+    },
+    "152": {
+        "coords": {
+            "x": 1395,
+            "y": 1100,
+            "z": 74
+        },
+        "edges": [
+            144,
+            161,
+            157
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 152
+    },
+    "153": {
+        "coords": {
+            "x": 1330,
+            "y": 357,
+            "z": 155
+        },
+        "edges": [
+            141,
+            158,
+            142
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 153
+    },
+    "154": {
+        "coords": {
+            "x": 1418,
+            "y": 1615,
+            "z": 224
+        },
+        "edges": [
+            123,
+            167,
+            170
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 154
+    },
+    "155": {
+        "coords": {
+            "x": 1405,
+            "y": 675,
+            "z": 136
+        },
+        "edges": [
+            149,
+            151,
+            146
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 155
+    },
+    "156": {
+        "coords": {
+            "x": 1421,
+            "y": 526,
+            "z": 128
+        },
+        "edges": [
+            159,
+            149,
+            146
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 156
+    },
+    "157": {
+        "coords": {
+            "x": 1435,
+            "y": 996,
+            "z": 82
+        },
+        "edges": [
+            165,
+            143,
+            171
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 157
+    },
+    "158": {
+        "coords": {
+            "x": 1422,
+            "y": 372,
+            "z": 157
+        },
+        "edges": [
+            153,
+            169,
+            141
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 158
+    },
+    "159": {
+        "coords": {
+            "x": 1456,
+            "y": 510,
+            "z": 124
+        },
+        "edges": [
+            156,
+            168,
+            149
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 159
+    },
+    "16": {
+        "coords": {
+            "x": 313,
+            "y": 1607,
+            "z": 228
+        },
+        "edges": [
+            20,
+            25,
+            11
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 16
+    },
+    "160": {
+        "coords": {
+            "x": 1463,
+            "y": 12,
+            "z": 241
+        },
+        "edges": [
+            131,
+            163,
+            147
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 160
+    },
+    "161": {
+        "coords": {
+            "x": 1455,
+            "y": 1130,
+            "z": 83
+        },
+        "edges": [
+            152,
+            171,
+            144
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 161
+    },
+    "162": {
+        "coords": {
+            "x": 1465,
+            "y": 806,
+            "z": 92
+        },
+        "edges": [
+            164,
+            150,
+            151
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 162
+    },
+    "163": {
+        "coords": {
+            "x": 1528,
+            "y": 196,
+            "z": 229
+        },
+        "edges": [
+            179,
+            147,
+            169
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 163
+    },
+    "164": {
+        "coords": {
+            "x": 1512,
+            "y": 741,
+            "z": 117
+        },
+        "edges": [
+            162,
+            172,
+            178
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 164
+    },
+    "165": {
+        "coords": {
+            "x": 1488,
+            "y": 909,
+            "z": 73
+        },
+        "edges": [
+            157,
+            162,
+            186
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 165
+    },
+    "166": {
+        "coords": {
+            "x": 1530,
+            "y": 401,
+            "z": 153
+        },
+        "edges": [
+            168,
+            173,
+            175
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 166
+    },
+    "167": {
+        "coords": {
+            "x": 1528,
+            "y": 1690,
+            "z": 226
+        },
+        "edges": [
+            170,
+            154,
+            183
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 167
+    },
+    "168": {
+        "coords": {
+            "x": 1516,
+            "y": 441,
+            "z": 136
+        },
+        "edges": [
+            166,
+            159,
+            158
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 168
+    },
+    "169": {
+        "coords": {
+            "x": 1495,
+            "y": 322,
+            "z": 192
+        },
+        "edges": [
+            173,
+            166,
+            158
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 169
+    },
+    "17": {
+        "coords": {
+            "x": 297,
+            "y": 1422,
+            "z": 197
+        },
+        "edges": [
+            10,
+            13,
+            19
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 17
+    },
+    "170": {
+        "coords": {
+            "x": 1568,
+            "y": 1641,
+            "z": 219
+        },
+        "edges": [
+            167,
+            183,
+            182
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 170
+    },
+    "171": {
+        "coords": {
+            "x": 1510,
+            "y": 1079,
+            "z": 80
+        },
+        "edges": [
+            161,
+            180,
+            157
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 171
+    },
+    "172": {
+        "coords": {
+            "x": 1592,
+            "y": 717,
+            "z": 138
+        },
+        "edges": [
+            178,
+            184,
+            185
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 172
+    },
+    "173": {
+        "coords": {
+            "x": 1571,
+            "y": 337,
+            "z": 167
+        },
+        "edges": [
+            175,
+            176,
+            166
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 173
+    },
+    "174": {
+        "coords": {
+            "x": 1576,
+            "y": 1203,
+            "z": 136
+        },
+        "edges": [
+            202,
+            199,
+            161
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 174
+    },
+    "175": {
+        "coords": {
+            "x": 1597,
+            "y": 347,
+            "z": 169
+        },
+        "edges": [
+            173,
+            188,
+            176
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 175
+    },
+    "176": {
+        "coords": {
+            "x": 1637,
+            "y": 307,
+            "z": 194
+        },
+        "edges": [
+            175,
+            173,
+            194
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 176
+    },
+    "177": {
+        "coords": {
+            "x": 1670,
+            "y": 74,
+            "z": 230
+        },
+        "edges": [
+            219,
+            179,
+            208
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 177
+    },
+    "178": {
+        "coords": {
+            "x": 1609,
+            "y": 674,
+            "z": 145
+        },
+        "edges": [
+            184,
+            172,
+            195
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 178
+    },
+    "179": {
+        "coords": {
+            "x": 1597,
+            "y": 169,
+            "z": 227
+        },
+        "edges": [
+            163,
+            177,
+            176
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 179
+    },
+    "18": {
+        "coords": {
+            "x": 345,
+            "y": 831,
+            "z": 152
+        },
+        "edges": [
+            21,
+            22,
+            34
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 18
+    },
+    "180": {
+        "coords": {
+            "x": 1607,
+            "y": 1030,
+            "z": 69
+        },
+        "edges": [
+            181,
+            192,
+            200
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 180
+    },
+    "181": {
+        "coords": {
+            "x": 1642,
+            "y": 1059,
+            "z": 70
+        },
+        "edges": [
+            200,
+            192,
+            180
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 181
+    },
+    "182": {
+        "coords": {
+            "x": 1628,
+            "y": 1591,
+            "z": 218
+        },
+        "edges": [
+            183,
+            193,
+            191
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 182
+    },
+    "183": {
+        "coords": {
+            "x": 1638,
+            "y": 1613,
+            "z": 221
+        },
+        "edges": [
+            193,
+            182,
+            170
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 183
+    },
+    "184": {
+        "coords": {
+            "x": 1631,
+            "y": 692,
+            "z": 125
+        },
+        "edges": [
+            178,
+            195,
+            172
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 184
+    },
+    "185": {
+        "coords": {
+            "x": 1634,
+            "y": 748,
+            "z": 138
+        },
+        "edges": [
+            198,
+            172,
+            190
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 185
+    },
+    "186": {
+        "coords": {
+            "x": 1616,
+            "y": 910,
+            "z": 68
+        },
+        "edges": [
+            189,
+            192,
+            180
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 186
+    },
+    "187": {
+        "coords": {
+            "x": 1646,
+            "y": 437,
+            "z": 165
+        },
+        "edges": [
+            197,
+            188,
+            201
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 187
+    },
+    "188": {
+        "coords": {
+            "x": 1638,
+            "y": 389,
+            "z": 162
+        },
+        "edges": [
+            187,
+            175,
+            194
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 188
+    },
+    "189": {
+        "coords": {
+            "x": 1641,
+            "y": 856,
+            "z": 95
+        },
+        "edges": [
+            196,
+            186,
+            190
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 189
+    },
+    "19": {
+        "coords": {
+            "x": 427,
+            "y": 1399,
+            "z": 198
+        },
+        "edges": [
+            17,
+            38,
+            29
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 19
+    },
+    "190": {
+        "coords": {
+            "x": 1648,
+            "y": 796,
+            "z": 120
+        },
+        "edges": [
+            196,
+            198,
+            185
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 190
+    },
+    "191": {
+        "coords": {
+            "x": 1604,
+            "y": 1541,
+            "z": 217
+        },
+        "edges": [
+            182,
+            183,
+            193
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 191
+    },
+    "192": {
+        "coords": {
+            "x": 1654,
+            "y": 1024,
+            "z": 63
+        },
+        "edges": [
+            181,
+            200,
+            180
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 192
+    },
+    "193": {
+        "coords": {
+            "x": 1654,
+            "y": 1614,
+            "z": 223
+        },
+        "edges": [
+            183,
+            182,
+            191
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 193
+    },
+    "194": {
+        "coords": {
+            "x": 1691,
+            "y": 364,
+            "z": 183
+        },
+        "edges": [
+            188,
+            176,
+            197
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 194
+    },
+    "195": {
+        "coords": {
+            "x": 1667,
+            "y": 670,
+            "z": 124
+        },
+        "edges": [
+            184,
+            178,
+            203
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 195
+    },
+    "196": {
+        "coords": {
+            "x": 1669,
+            "y": 814,
+            "z": 135
+        },
+        "edges": [
+            190,
+            198,
+            189
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 196
+    },
+    "197": {
+        "coords": {
+            "x": 1689,
+            "y": 442,
+            "z": 167
+        },
+        "edges": [
+            187,
+            205,
+            188
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 197
+    },
+    "198": {
+        "coords": {
+            "x": 1667,
+            "y": 757,
+            "z": 129
+        },
+        "edges": [
+            185,
+            190,
+            196
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 198
+    },
+    "199": {
+        "coords": {
+            "x": 1657,
+            "y": 1116,
+            "z": 75
+        },
+        "edges": [
+            202,
+            200,
+            181
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 199
+    },
+    "2": {
+        "coords": {
+            "x": 90,
+            "y": 1185,
+            "z": 228
+        },
+        "edges": [
+            4,
+            3,
+            1
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 2
+    },
+    "20": {
+        "coords": {
+            "x": 367,
+            "y": 1550,
+            "z": 234
+        },
+        "edges": [
+            16,
+            25,
+            38
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 20
+    },
+    "200": {
+        "coords": {
+            "x": 1668,
+            "y": 1067,
+            "z": 72
+        },
+        "edges": [
+            181,
+            192,
+            199
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 200
+    },
+    "201": {
+        "coords": {
+            "x": 1662,
+            "y": 512,
+            "z": 153
+        },
+        "edges": [
+            205,
+            197,
+            187
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 201
+    },
+    "202": {
+        "coords": {
+            "x": 1677,
+            "y": 1142,
+            "z": 92
+        },
+        "edges": [
+            199,
+            200,
+            181
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 202
+    },
+    "203": {
+        "coords": {
+            "x": 1691,
+            "y": 593,
+            "z": 149
+        },
+        "edges": [
+            209,
+            204,
+            211
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 203
+    },
+    "204": {
+        "coords": {
+            "x": 1750,
+            "y": 548,
+            "z": 150
+        },
+        "edges": [
+            211,
+            209,
+            212
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 204
+    },
+    "205": {
+        "coords": {
+            "x": 1714,
+            "y": 502,
+            "z": 156
+        },
+        "edges": [
+            212,
+            211,
+            201
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 205
+    },
+    "206": {
+        "coords": {
+            "x": 1759,
+            "y": 736,
+            "z": 110
+        },
+        "edges": [
+            216,
+            207,
+            221
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 206
+    },
+    "207": {
+        "coords": {
+            "x": 1750,
+            "y": 655,
+            "z": 133
+        },
+        "edges": [
+            224,
+            209,
+            206
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 207
+    },
+    "208": {
+        "coords": {
+            "x": 1784,
+            "y": 189,
+            "z": 222
+        },
+        "edges": [
+            214,
+            177,
+            219
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 208
+    },
+    "209": {
+        "coords": {
+            "x": 1728,
+            "y": 593,
+            "z": 144
+        },
+        "edges": [
+            203,
+            204,
+            211
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 209
+    },
+    "21": {
+        "coords": {
+            "x": 379,
+            "y": 852,
+            "z": 119
+        },
+        "edges": [
+            18,
+            30,
+            22
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 21
+    },
+    "210": {
+        "coords": {
+            "x": 1761,
+            "y": 872,
+            "z": 111
+        },
+        "edges": [
+            216,
+            221,
+            226
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 210
+    },
+    "211": {
+        "coords": {
+            "x": 1738,
+            "y": 532,
+            "z": 152
+        },
+        "edges": [
+            204,
+            212,
+            205
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 211
+    },
+    "212": {
+        "coords": {
+            "x": 1744,
+            "y": 495,
+            "z": 156
+        },
+        "edges": [
+            205,
+            211,
+            204
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 212
+    },
+    "213": {
+        "coords": {
+            "x": 1771,
+            "y": 1318,
+            "z": 214
+        },
+        "edges": [
+            231,
+            225,
+            215
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 213
+    },
+    "214": {
+        "coords": {
+            "x": 1759,
+            "y": 285,
+            "z": 220
+        },
+        "edges": [
+            208,
+            194,
+            218
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 214
+    },
+    "215": {
+        "coords": {
+            "x": 1733,
+            "y": 1180,
+            "z": 157
+        },
+        "edges": [
+            202,
+            199,
+            213
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 215
+    },
+    "216": {
+        "coords": {
+            "x": 1767,
+            "y": 808,
+            "z": 112
+        },
+        "edges": [
+            221,
+            210,
+            206
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 216
+    },
+    "217": {
+        "coords": {
+            "x": 1735,
+            "y": 966,
+            "z": 85
+        },
+        "edges": [
+            226,
+            210,
+            192
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 217
+    },
+    "218": {
+        "coords": {
+            "x": 1763,
+            "y": 397,
+            "z": 194
+        },
+        "edges": [
+            194,
+            197,
+            212
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 218
+    },
+    "219": {
+        "coords": {
+            "x": 1769,
+            "y": 12,
+            "z": 226
+        },
+        "edges": [
+            177,
+            208,
+            179
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 219
+    },
+    "22": {
+        "coords": {
+            "x": 312,
+            "y": 944,
+            "z": 147
+        },
+        "edges": [
+            14,
+            21,
+            18
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 22
+    },
+    "220": {
+        "coords": {
+            "x": 1803,
+            "y": 1560,
+            "z": 216
+        },
+        "edges": [
+            236,
+            228,
+            223
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 220
+    },
+    "221": {
+        "coords": {
+            "x": 1808,
+            "y": 802,
+            "z": 91
+        },
+        "edges": [
+            234,
+            216,
+            206
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 221
+    },
+    "222": {
+        "coords": {
+            "x": 1798,
+            "y": 582,
+            "z": 147
+        },
+        "edges": [
+            229,
+            204,
+            224
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 222
+    },
+    "223": {
+        "coords": {
+            "x": 1786,
+            "y": 1669,
+            "z": 215
+        },
+        "edges": [
+            228,
+            236,
+            220
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 223
+    },
+    "224": {
+        "coords": {
+            "x": 1801,
+            "y": 642,
+            "z": 142
+        },
+        "edges": [
+            233,
+            207,
+            222
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 224
+    },
+    "225": {
+        "coords": {
+            "x": 1850,
+            "y": 1404,
+            "z": 215
+        },
+        "edges": [
+            231,
+            213,
+            220
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 225
+    },
+    "226": {
+        "coords": {
+            "x": 1803,
+            "y": 952,
+            "z": 96
+        },
+        "edges": [
+            230,
+            217,
+            210
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 226
+    },
+    "227": {
+        "coords": {
+            "x": 1821,
+            "y": 496,
+            "z": 174
+        },
+        "edges": [
+            229,
+            235,
+            212
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 227
+    },
+    "228": {
+        "coords": {
+            "x": 1825,
+            "y": 1613,
+            "z": 218
+        },
+        "edges": [
+            236,
+            220,
+            223
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 228
+    },
+    "229": {
+        "coords": {
+            "x": 1816,
+            "y": 542,
+            "z": 152
+        },
+        "edges": [
+            222,
+            235,
+            227
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 229
+    },
+    "23": {
+        "coords": {
+            "x": 427,
+            "y": 291,
+            "z": 234
+        },
+        "edges": [
+            26,
+            27,
+            44
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 23
+    },
+    "230": {
+        "coords": {
+            "x": 1848,
+            "y": 990,
+            "z": 109
+        },
+        "edges": [
+            226,
+            217,
+            242
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 230
+    },
+    "231": {
+        "coords": {
+            "x": 1834,
+            "y": 1399,
+            "z": 219
+        },
+        "edges": [
+            225,
+            213,
+            220
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 231
+    },
+    "232": {
+        "coords": {
+            "x": 1881,
+            "y": 591,
+            "z": 149
+        },
+        "edges": [
+            235,
+            238,
+            233
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 232
+    },
+    "233": {
+        "coords": {
+            "x": 1852,
+            "y": 634,
+            "z": 141
+        },
+        "edges": [
+            224,
+            232,
+            238
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 233
+    },
+    "234": {
+        "coords": {
+            "x": 1848,
+            "y": 791,
+            "z": 86
+        },
+        "edges": [
+            221,
+            216,
+            206
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 234
+    },
+    "235": {
+        "coords": {
+            "x": 1859,
+            "y": 552,
+            "z": 155
+        },
+        "edges": [
+            229,
+            232,
+            222
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 235
+    },
+    "236": {
+        "coords": {
+            "x": 1849,
+            "y": 1590,
+            "z": 217
+        },
+        "edges": [
+            228,
+            220,
+            223
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 236
+    },
+    "237": {
+        "coords": {
+            "x": 2087,
+            "y": 1571,
+            "z": 189
+        },
+        "edges": [
+            249,
+            236,
+            228
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 237
+    },
+    "238": {
+        "coords": {
+            "x": 1903,
+            "y": 637,
+            "z": 159
+        },
+        "edges": [
+            232,
+            233,
+            235
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 238
+    },
+    "239": {
+        "coords": {
+            "x": 2065,
+            "y": 758,
+            "z": 159
+        },
+        "edges": [
+            246,
+            251,
+            245
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 239
+    },
+    "24": {
+        "coords": {
+            "x": 394,
+            "y": 1053,
+            "z": 97
+        },
+        "edges": [
+            42,
+            32,
+            14
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 24
+    },
+    "240": {
+        "coords": {
+            "x": 1998,
+            "y": 1226,
+            "z": 210
+        },
+        "edges": [
+            253,
+            258,
+            242
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 240
+    },
+    "241": {
+        "coords": {
+            "x": 2054,
+            "y": 103,
+            "z": 195
+        },
+        "edges": [
+            244,
+            208,
+            248
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 241
+    },
+    "242": {
+        "coords": {
+            "x": 1942,
+            "y": 1039,
+            "z": 188
+        },
+        "edges": [
+            230,
+            255,
+            245
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 242
+    },
+    "243": {
+        "coords": {
+            "x": 1913,
+            "y": 458,
+            "z": 197
+        },
+        "edges": [
+            227,
+            235,
+            247
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 243
+    },
+    "244": {
+        "coords": {
+            "x": 2024,
+            "y": 289,
+            "z": 219
+        },
+        "edges": [
+            247,
+            248,
+            252
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 244
+    },
+    "245": {
+        "coords": {
+            "x": 1979,
+            "y": 880,
+            "z": 137
+        },
+        "edges": [
+            246,
+            251,
+            239
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 245
+    },
+    "246": {
+        "coords": {
+            "x": 2028,
+            "y": 832,
+            "z": 132
+        },
+        "edges": [
+            251,
+            245,
+            239
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 246
+    },
+    "247": {
+        "coords": {
+            "x": 2030,
+            "y": 394,
+            "z": 221
+        },
+        "edges": [
+            248,
+            252,
+            244
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 247
+    },
+    "248": {
+        "coords": {
+            "x": 2044,
+            "y": 393,
+            "z": 219
+        },
+        "edges": [
+            247,
+            252,
+            244
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 248
+    },
+    "249": {
+        "coords": {
+            "x": 2060,
+            "y": 1487,
+            "z": 210
+        },
+        "edges": [
+            237,
+            225,
+            236
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 249
+    },
+    "25": {
+        "coords": {
+            "x": 392,
+            "y": 1666,
+            "z": 231
+        },
+        "edges": [
+            16,
+            20,
+            38
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 25
+    },
+    "250": {
+        "coords": {
+            "x": 2089,
+            "y": 571,
+            "z": 206
+        },
+        "edges": [
+            254,
+            252,
+            259
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 250
+    },
+    "251": {
+        "coords": {
+            "x": 2056,
+            "y": 882,
+            "z": 168
+        },
+        "edges": [
+            246,
+            245,
+            239
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 251
+    },
+    "252": {
+        "coords": {
+            "x": 2049,
+            "y": 461,
+            "z": 214
+        },
+        "edges": [
+            254,
+            248,
+            247
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 252
+    },
+    "253": {
+        "coords": {
+            "x": 2109,
+            "y": 1126,
+            "z": 212
+        },
+        "edges": [
+            255,
+            257,
+            258
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 253
+    },
+    "254": {
+        "coords": {
+            "x": 2106,
+            "y": 486,
+            "z": 212
+        },
+        "edges": [
+            252,
+            250,
+            259
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 254
+    },
+    "255": {
+        "coords": {
+            "x": 2103,
+            "y": 1023,
+            "z": 214
+        },
+        "edges": [
+            257,
+            256,
+            253
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 255
+    },
+    "256": {
+        "coords": {
+            "x": 2198,
+            "y": 988,
+            "z": 211
+        },
+        "edges": [
+            257,
+            255,
+            253
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 256
+    },
+    "257": {
+        "coords": {
+            "x": 2110,
+            "y": 995,
+            "z": 212
+        },
+        "edges": [
+            255,
+            256,
+            253
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 257
+    },
+    "258": {
+        "coords": {
+            "x": 2187,
+            "y": 1253,
+            "z": 204
+        },
+        "edges": [
+            253,
+            240,
+            255
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 258
+    },
+    "259": {
+        "coords": {
+            "x": 2199,
+            "y": 439,
+            "z": 209
+        },
+        "edges": [
+            254,
+            252,
+            248
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 259
+    },
+    "26": {
+        "coords": {
+            "x": 414,
+            "y": 343,
+            "z": 237
+        },
+        "edges": [
+            23,
+            27,
+            44
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 26
+    },
+    "27": {
+        "coords": {
+            "x": 421,
+            "y": 430,
+            "z": 232
+        },
+        "edges": [
+            26,
+            23,
+            45
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 27
+    },
+    "28": {
+        "coords": {
+            "x": 371,
+            "y": 587,
+            "z": 206
+        },
+        "edges": [
+            45,
+            27,
+            36
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 28
+    },
+    "29": {
+        "coords": {
+            "x": 382,
+            "y": 1260,
+            "z": 183
+        },
+        "edges": [
+            13,
+            33,
+            31
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 29
+    },
+    "3": {
+        "coords": {
+            "x": 85,
+            "y": 1380,
+            "z": 222
+        },
+        "edges": [
+            4,
+            10,
+            2
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 3
+    },
+    "30": {
+        "coords": {
+            "x": 461,
+            "y": 780,
+            "z": 102
+        },
+        "edges": [
+            34,
+            36,
+            21
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 30
+    },
+    "31": {
+        "coords": {
+            "x": 460,
+            "y": 1192,
+            "z": 141
+        },
+        "edges": [
+            37,
+            33,
+            41
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 31
+    },
+    "32": {
+        "coords": {
+            "x": 402,
+            "y": 1148,
+            "z": 113
+        },
+        "edges": [
+            31,
+            37,
+            42
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 32
+    },
+    "33": {
+        "coords": {
+            "x": 486,
+            "y": 1231,
+            "z": 165
+        },
+        "edges": [
+            31,
+            41,
+            37
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 33
+    },
+    "34": {
+        "coords": {
+            "x": 433,
+            "y": 749,
+            "z": 139
+        },
+        "edges": [
+            30,
+            36,
+            40
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 34
+    },
+    "35": {
+        "coords": {
+            "x": 482,
+            "y": 43,
+            "z": 232
+        },
+        "edges": [
+            39,
+            15,
+            48
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 35
+    },
+    "36": {
+        "coords": {
+            "x": 498,
+            "y": 694,
+            "z": 127
+        },
+        "edges": [
+            40,
+            34,
+            30
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 36
+    },
+    "37": {
+        "coords": {
+            "x": 479,
+            "y": 1169,
+            "z": 108
+        },
+        "edges": [
+            31,
+            41,
+            32
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 37
+    },
+    "38": {
+        "coords": {
+            "x": 485,
+            "y": 1521,
+            "z": 231
+        },
+        "edges": [
+            20,
+            53,
+            19
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 38
+    },
+    "39": {
+        "coords": {
+            "x": 508,
+            "y": 97,
+            "z": 236
+        },
+        "edges": [
+            35,
+            48,
+            15
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 39
+    },
+    "4": {
+        "coords": {
+            "x": 33,
+            "y": 1360,
+            "z": 227
+        },
+        "edges": [
+            3,
+            10,
+            2
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 4
+    },
+    "40": {
+        "coords": {
+            "x": 520,
+            "y": 672,
+            "z": 131
+        },
+        "edges": [
+            36,
+            54,
+            34
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 40
+    },
+    "41": {
+        "coords": {
+            "x": 520,
+            "y": 1209,
+            "z": 114
+        },
+        "edges": [
+            37,
+            33,
+            31
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 41
+    },
+    "42": {
+        "coords": {
+            "x": 342,
+            "y": 1093,
+            "z": 134
+        },
+        "edges": [
+            24,
+            32,
+            14
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 42
+    },
+    "43": {
+        "coords": {
+            "x": 519,
+            "y": 955,
+            "z": 85
+        },
+        "edges": [
+            46,
+            60,
+            51
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 43
+    },
+    "44": {
+        "coords": {
+            "x": 562,
+            "y": 255,
+            "z": 235
+        },
+        "edges": [
+            23,
+            70,
+            39
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 44
+    },
+    "45": {
+        "coords": {
+            "x": 513,
+            "y": 540,
+            "z": 201
+        },
+        "edges": [
+            49,
+            52,
+            62
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 45
+    },
+    "46": {
+        "coords": {
+            "x": 549,
+            "y": 917,
+            "z": 80
+        },
+        "edges": [
+            43,
+            60,
+            50
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 46
+    },
+    "47": {
+        "coords": {
+            "x": 558,
+            "y": 1147,
+            "z": 102
+        },
+        "edges": [
+            56,
+            41,
+            37
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 47
+    },
+    "48": {
+        "coords": {
+            "x": 641,
+            "y": 72,
+            "z": 235
+        },
+        "edges": [
+            39,
+            70,
+            35
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 48
+    },
+    "49": {
+        "coords": {
+            "x": 560,
+            "y": 554,
+            "z": 144
+        },
+        "edges": [
+            62,
+            52,
+            45
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 49
+    },
+    "5": {
+        "coords": {
+            "x": 49,
+            "y": 813,
+            "z": 225
+        },
+        "edges": [
+            6,
+            7,
+            8
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 5
+    },
+    "50": {
+        "coords": {
+            "x": 567,
+            "y": 843,
+            "z": 107
+        },
+        "edges": [
+            59,
+            58,
+            46
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 50
+    },
+    "51": {
+        "coords": {
+            "x": 622,
+            "y": 1007,
+            "z": 83
+        },
+        "edges": [
+            56,
+            60,
+            73
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 51
+    },
+    "52": {
+        "coords": {
+            "x": 616,
+            "y": 507,
+            "z": 159
+        },
+        "edges": [
+            64,
+            62,
+            63
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 52
+    },
+    "53": {
+        "coords": {
+            "x": 605,
+            "y": 1467,
+            "z": 227
+        },
+        "edges": [
+            38,
+            69,
+            68
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 53
+    },
+    "54": {
+        "coords": {
+            "x": 602,
+            "y": 628,
+            "z": 102
+        },
+        "edges": [
+            65,
+            63,
+            49
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 54
+    },
+    "55": {
+        "coords": {
+            "x": 605,
+            "y": 1632,
+            "z": 230
+        },
+        "edges": [
+            38,
+            53,
+            25
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 55
+    },
+    "56": {
+        "coords": {
+            "x": 604,
+            "y": 1092,
+            "z": 90
+        },
+        "edges": [
+            47,
+            51,
+            78
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 56
+    },
+    "57": {
+        "coords": {
+            "x": 736,
+            "y": 1369,
+            "z": 196
+        },
+        "edges": [
+            69,
+            66,
+            68
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 57
+    },
+    "58": {
+        "coords": {
+            "x": 606,
+            "y": 798,
+            "z": 86
+        },
+        "edges": [
+            59,
+            61,
+            50
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 58
+    },
+    "59": {
+        "coords": {
+            "x": 577,
+            "y": 828,
+            "z": 70
+        },
+        "edges": [
+            50,
+            58,
+            60
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 59
+    },
+    "6": {
+        "coords": {
+            "x": 52,
+            "y": 820,
+            "z": 224
+        },
+        "edges": [
+            5,
+            7,
+            8
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 6
+    },
+    "60": {
+        "coords": {
+            "x": 619,
+            "y": 902,
+            "z": 77
+        },
+        "edges": [
+            46,
+            50,
+            59
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 60
+    },
+    "61": {
+        "coords": {
+            "x": 629,
+            "y": 743,
+            "z": 89
+        },
+        "edges": [
+            58,
+            72,
+            59
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 61
+    },
+    "62": {
+        "coords": {
+            "x": 625,
+            "y": 537,
+            "z": 123
+        },
+        "edges": [
+            64,
+            63,
+            65
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 62
+    },
+    "63": {
+        "coords": {
+            "x": 630,
+            "y": 560,
+            "z": 110
+        },
+        "edges": [
+            65,
+            62,
+            64
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 63
+    },
+    "64": {
+        "coords": {
+            "x": 641,
+            "y": 520,
+            "z": 129
+        },
+        "edges": [
+            62,
+            52,
+            63
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 64
+    },
+    "65": {
+        "coords": {
+            "x": 645,
+            "y": 575,
+            "z": 113
+        },
+        "edges": [
+            63,
+            62,
+            64
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 65
+    },
+    "66": {
+        "coords": {
+            "x": 673,
+            "y": 1295,
+            "z": 145
+        },
+        "edges": [
+            69,
+            68,
+            57
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 66
+    },
+    "67": {
+        "coords": {
+            "x": 679,
+            "y": 834,
+            "z": 81
+        },
+        "edges": [
+            74,
+            72,
+            58
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 67
+    },
+    "68": {
+        "coords": {
+            "x": 598,
+            "y": 1313,
+            "z": 184
+        },
+        "edges": [
+            66,
+            69,
+            33
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 68
+    },
+    "69": {
+        "coords": {
+            "x": 686,
+            "y": 1348,
+            "z": 193
+        },
+        "edges": [
+            57,
+            66,
+            68
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 69
+    },
+    "7": {
+        "coords": {
+            "x": 98,
+            "y": 878,
+            "z": 225
+        },
+        "edges": [
+            6,
+            5,
+            8
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 7
+    },
+    "70": {
+        "coords": {
+            "x": 720,
+            "y": 205,
+            "z": 236
+        },
+        "edges": [
+            48,
+            44,
+            39
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 70
+    },
+    "71": {
+        "coords": {
+            "x": 740,
+            "y": 998,
+            "z": 96
+        },
+        "edges": [
+            73,
+            76,
+            87
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 71
+    },
+    "72": {
+        "coords": {
+            "x": 693,
+            "y": 773,
+            "z": 72
+        },
+        "edges": [
+            67,
+            61,
+            74
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 72
+    },
+    "73": {
+        "coords": {
+            "x": 697,
+            "y": 933,
+            "z": 96
+        },
+        "edges": [
+            76,
+            71,
+            60
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 73
+    },
+    "74": {
+        "coords": {
+            "x": 713,
+            "y": 844,
+            "z": 79
+        },
+        "edges": [
+            67,
+            72,
+            75
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 74
+    },
+    "75": {
+        "coords": {
+            "x": 776,
+            "y": 890,
+            "z": 88
+        },
+        "edges": [
+            76,
+            74,
+            73
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 75
+    },
+    "76": {
+        "coords": {
+            "x": 742,
+            "y": 919,
+            "z": 103
+        },
+        "edges": [
+            75,
+            73,
+            71
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 76
+    },
+    "77": {
+        "coords": {
+            "x": 759,
+            "y": 683,
+            "z": 68
+        },
+        "edges": [
+            81,
+            85,
+            90
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 77
+    },
+    "78": {
+        "coords": {
+            "x": 725,
+            "y": 1145,
+            "z": 109
+        },
+        "edges": [
+            84,
+            82,
+            56
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 78
+    },
+    "79": {
+        "coords": {
+            "x": 686,
+            "y": 473,
+            "z": 141
+        },
+        "edges": [
+            64,
+            52,
+            62
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 79
+    },
+    "8": {
+        "coords": {
+            "x": 153,
+            "y": 769,
+            "z": 220
+        },
+        "edges": [
+            5,
+            6,
+            7
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 8
+    },
+    "80": {
+        "coords": {
+            "x": 873,
+            "y": 1628,
+            "z": 229
+        },
+        "edges": [
+            103,
+            98,
+            107
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 80
+    },
+    "81": {
+        "coords": {
+            "x": 830,
+            "y": 733,
+            "z": 77
+        },
+        "edges": [
+            85,
+            77,
+            90
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 81
+    },
+    "82": {
+        "coords": {
+            "x": 826,
+            "y": 1085,
+            "z": 92
+        },
+        "edges": [
+            84,
+            93,
+            87
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 82
+    },
+    "83": {
+        "coords": {
+            "x": 1253,
+            "y": 970,
+            "z": 132
+        },
+        "edges": [
+            128,
+            119,
+            143
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 83
+    },
+    "84": {
+        "coords": {
+            "x": 834,
+            "y": 1115,
+            "z": 107
+        },
+        "edges": [
+            82,
+            78,
+            93
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 84
+    },
+    "85": {
+        "coords": {
+            "x": 848,
+            "y": 710,
+            "z": 83
+        },
+        "edges": [
+            81,
+            90,
+            92
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 85
+    },
+    "86": {
+        "coords": {
+            "x": 924,
+            "y": 1326,
+            "z": 199
+        },
+        "edges": [
+            57,
+            69,
+            84
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 86
+    },
+    "87": {
+        "coords": {
+            "x": 846,
+            "y": 980,
+            "z": 78
+        },
+        "edges": [
+            93,
+            82,
+            71
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 87
+    },
+    "88": {
+        "coords": {
+            "x": 851,
+            "y": 525,
+            "z": 55
+        },
+        "edges": [
+            89,
+            90,
+            92
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 88
+    },
+    "89": {
+        "coords": {
+            "x": 806,
+            "y": 540,
+            "z": 60
+        },
+        "edges": [
+            88,
+            90,
+            77
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 89
+    },
+    "9": {
+        "coords": {
+            "x": 92,
+            "y": 1582,
+            "z": 208
+        },
+        "edges": [
+            11,
+            3,
+            16
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 9
+    },
+    "90": {
+        "coords": {
+            "x": 842,
+            "y": 632,
+            "z": 63
+        },
+        "edges": [
+            92,
+            85,
+            77
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 90
+    },
+    "91": {
+        "coords": {
+            "x": 891,
+            "y": 402,
+            "z": 146
+        },
+        "edges": [
+            88,
+            89,
+            108
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 91
+    },
+    "92": {
+        "coords": {
+            "x": 918,
+            "y": 651,
+            "z": 85
+        },
+        "edges": [
+            90,
+            96,
+            85
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 92
+    },
+    "93": {
+        "coords": {
+            "x": 907,
+            "y": 1030,
+            "z": 74
+        },
+        "edges": [
+            87,
+            82,
+            84
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 93
+    },
+    "94": {
+        "coords": {
+            "x": 938,
+            "y": 797,
+            "z": 135
+        },
+        "edges": [
+            97,
+            85,
+            81
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 94
+    },
+    "95": {
+        "coords": {
+            "x": 973,
+            "y": 117,
+            "z": 236
+        },
+        "edges": [
+            111,
+            129,
+            70
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 95
+    },
+    "96": {
+        "coords": {
+            "x": 988,
+            "y": 650,
+            "z": 128
+        },
+        "edges": [
+            92,
+            104,
+            94
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 96
+    },
+    "97": {
+        "coords": {
+            "x": 1011,
+            "y": 847,
+            "z": 103
+        },
+        "edges": [
+            101,
+            105,
+            99
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 97
+    },
+    "98": {
+        "coords": {
+            "x": 1073,
+            "y": 1634,
+            "z": 231
+        },
+        "edges": [
+            103,
+            107,
+            80
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 98
+    },
+    "99": {
+        "coords": {
+            "x": 1012,
+            "y": 937,
+            "z": 92
+        },
+        "edges": [
+            102,
+            101,
+            97
+        ],
+        "features": {
+            "maxGrad": "n/a",
+            "maxMSTW": "n/a",
+            "minGrad": "n/a",
+            "minMSTW": "n/a"
+        },
+        "node": 99
+    }
+}
