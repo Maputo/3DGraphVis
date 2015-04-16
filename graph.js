@@ -1,5 +1,12 @@
 // Create a 3d graph  within d3 selection parent.
-function scatterPlot3d( parent ) {
+function graph3d( parent ) {
+  
+  function Node(x, y, z) {
+    this.x = x;
+    this.y = y;
+    this.z = z;
+  }
+
   var x3d = parent  
     .append("x3d")
     .style( "width", "99%" )
@@ -9,26 +16,52 @@ function scatterPlot3d( parent ) {
   
   var scene = x3d.append("scene")
 
-  scene.append("orthoviewpoint")
-    .attr( "centerOfRotation", [1, 1, 1])
-    .attr( "fieldOfView", [-3, -3, 15, 15])
-    .attr( "orientation", [-0.5, 1, 0.2, 1.12*Math.PI/4])
-    .attr( "position", [8, 4, 15])
+  scene.append("viewpoint")
+    .attr( "centerOfRotation", [0, 0, 0])
+    .attr( "position", [0, 0, 125])
 
 
-  function drawNode() {
+  function drawNode(node) {
     var nodes = scene
+      .append("transform")
+      .attr("translation", [node.x, node.y, node.z])
       .append("shape");
     
     nodes
       .append("appearance")
-      .append("material");
+      .append("material")
+      .attr("diffuseColor", [1, 1, 4]);
     
     nodes
       .append("sphere")
-      .attr("radius", "0.2");
+      .attr("radius", 0.5);
   }
 
+  function drawEdge(source, target) {
+    var edges = scene
+      .append("shape")
+      .append("lineSet")
+      .attr("lineCount", 1);
 
-  drawNode();
+    edges
+    .append("color")
+    .attr("DEF", "COLOR")
+    .attr("color", [0, 0, 1, 0, 0, 1]);
+    
+    edges
+      .append("coordinate")
+      .attr("point", [source.x, source.y, source.z,
+                      target.x, target.y, target.z]);
+
+  }
+
+  var a = new Node(0, 0, 0);
+  var b = new Node(1, 2, 3);
+  var c = new Node(3, 2, 1);
+  
+  drawNode(a);
+  drawNode(b);
+  drawNode(c);
+  drawEdge(a, b);
+  drawEdge(b, c);
 }
