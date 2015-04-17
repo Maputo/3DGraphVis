@@ -1,48 +1,56 @@
-// Create a 3d graph  within d3 selection parent.
 function graph3d( parent ) {
   
-  // Assign handlers immediately after making the request,
-  // and remember the jqxhr object for this request
-  var jqxhr = $.getJSON( "http://berndmalle.com/akhci/graphs/graph_small.json", function() {
-    console.log( "success" );
-  })
-    .done(function() {
-      console.log( "second success" );
-    })
-    .fail(function() {
-      console.log( "error" );
-    })
-    .always(function() {
-      console.log( "complete" );
-    });
-  
-  // Perform other work here ...
-  
-  // Set another completion function for the request above
-  jqxhr.complete(function() {
-    console.log( "second complete" );
+  var x3d;
+  var scene;
+  var COORDS = "coords";
+  var graph_json;
+
+      
+  initX3d();
+  initScene();
+
+  var jqxhr = $.getJSON( "graph_small.json", function(graph) {
+    scaleGraph(graph);
+
+    for (var key in graph) {
+      var node = graph[key];
+      drawNode(node[COORDS]);
+    }
   });
 
+  function scaleGraph(graph) {
+    var scaleCoords = function(node) {
+      node.x = parseFloat(node.x) / 100;
+      node.y = parseFloat(node.y) / 100;
+      node.z = parseFloat(node.z) / 100;
+    }
+
+    for (var node in graph) {
+      scaleCoords(graph[node][COORDS]);
+    }
+  }
+
+  function initX3d() {
+    x3d = parent  
+      .append("x3d")
+      .style( "width", "99%" )
+      .style( "height", "99%" )
+      .style( "border", "none" )
+  }
+  
+  function initScene() {
+    scene = x3d.append("scene")
+
+    scene.append("viewpoint")
+      .attr( "centerOfRotation", [10, 10, 0])
+      .attr( "position", [10, 10, 50])
+  }
 
   function Node(x, y, z) {
     this.x = x;
     this.y = y;
     this.z = z;
   }
-
-  var x3d = parent  
-    .append("x3d")
-    .style( "width", "99%" )
-    .style( "height", "99%" )
-    .style( "border", "none" )
-  
-  
-  var scene = x3d.append("scene")
-
-  scene.append("viewpoint")
-    .attr( "centerOfRotation", [0, 0, 0])
-    .attr( "position", [0, 0, 125])
-
 
   function drawNode(node) {
     var nodes = scene
@@ -53,11 +61,11 @@ function graph3d( parent ) {
     nodes
       .append("appearance")
       .append("material")
-      .attr("diffuseColor", [1, 1, 4]);
+      .attr("diffuseColor", [0, 0, 1]);
     
     nodes
       .append("sphere")
-      .attr("radius", 0.5);
+      .attr("radius", 0.1);
   }
 
   function drawEdge(source, target) {
@@ -77,14 +85,4 @@ function graph3d( parent ) {
                       target.x, target.y, target.z]);
 
   }
-
-  var a = new Node(0, 0, 0);
-  var b = new Node(1, 2, 3);
-  var c = new Node(3, 2, 1);
-  
-  drawNode(a);
-  drawNode(b);
-  drawNode(c);
-  drawEdge(a, b);
-  drawEdge(b, c);
 }
