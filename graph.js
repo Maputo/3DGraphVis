@@ -6,9 +6,8 @@ function graph3d( parent ) {
   var EDGES = "edges";
   var graph_json;
 
-      
   initX3d();
-  initScene();
+  initScene();      
 
   var jqxhr = $.getJSON( "graph_small.json", function(graph) {
     scaleGraph(graph);
@@ -53,7 +52,7 @@ function graph3d( parent ) {
 
     scene.append("viewpoint")
       .attr( "centerOfRotation", [10, 10, 0])
-      .attr( "position", [10, 10, 50])
+      .attr( "position", [10, 8.5, 25])
   }
 
   function Node(x, y, z) {
