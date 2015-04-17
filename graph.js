@@ -9,8 +9,9 @@ function graph3d( parent ) {
   initX3d();
   initScene();
 
-  var jqxhr = $.getJSON( "graph_small.json", function(graph) {
+  var jqxhr = $.getJSON( "graph_medium.json", function(graph) {
     scaleGraph(graph);
+
 
     for (var key in graph) {
       var node = graph[key];
