@@ -3,20 +3,29 @@ function graph3d( parent ) {
   var x3d;
   var scene;
   var COORDS = "coords";
+  var EDGES = "edges";
   var graph_json;
 
       
   initX3d();
   initScene();
 
-  var jqxhr = $.getJSON( "graph_medium.json", function(graph) {
+  var jqxhr = $.getJSON( "graph_small.json", function(graph) {
     scaleGraph(graph);
-
 
     for (var key in graph) {
       var node = graph[key];
+      var edges = graph[key][EDGES];
+
       drawNode(node[COORDS]);
+
+      for (var e in edges) {
+        var edge = edges[e];
+        
+        drawEdge(node[COORDS], graph[edge][COORDS]);
+      }
     }
+
   });
 
   function scaleGraph(graph) {
