@@ -9,12 +9,34 @@
     <script type="text/javascript" src="libs/jquery.min.js"></script>
     <script type="text/javascript" src="graph.js"></script>
     <link rel="stylesheet" type="text/css" href="libs/css/x3dom.css"/>
+
+    <style>
+      div.select {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        z-index: 999;
+      }
+    </style>
   </head>
   <body>
+    <div class="select">
+      <select id ="3Dgraph" name="3Dgraph" 
+              onchange="javascript: window.open(top.location.href.substring(0, top.location.href.indexOf('?')) + '?' + this.value, '_self')">
+        <option value="" disabled selected style="display: none;">Select graph size</option>
+        <option value='graph_small.json'>Small</option>
+        <option value='graph_medium.json'>Medium</option>
+        <option value='graph_large.json'>Large</option>
+      </select>
+    </div>
     <script>
-      d3.select('html').style('height','100%').style('width','100%')
-      d3.select('body').style('height','100%').style('width','100%')
-      graph3d(d3.select('body'));
+      var json = window.location.search.replace("?", "");
+      if (json != "") drawGraph(json);
+      function drawGraph(json) {
+        d3.select('html').style('height','100%').style('width','100%')
+        d3.select('body').style('height','100%').style('width','100%')
+        graph3d(d3.select('body'), json);
+      }      
     </script>
   </body>
 </html>

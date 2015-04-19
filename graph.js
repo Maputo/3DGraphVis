@@ -1,4 +1,4 @@
-function graph3d(parent) {
+function graph3d(parent, json) {
   
   var x3d = parent  
     .append("x3d")
@@ -14,17 +14,17 @@ function graph3d(parent) {
   var COORDS = "coords";
   var EDGES = "edges";
 
-  loadJSON();
+  loadJSON(json);
   main();
 
 
-  function loadJSON() {
+  function loadJSON(json) {
 
     $.ajaxSetup({
       async: false
     });
 
-    $.getJSON("graph_small.json", function(graph_response) {
+    $.getJSON(json, function(graph_response) {
       window.graph = graph_response;
     });
 
@@ -39,15 +39,14 @@ function graph3d(parent) {
     scaleGraph(graph);
 
     for (var key in graph) {
-      var node = graph[key];
-      var edges = graph[key][EDGES];
+      node = graph[key];
+      edges = node[EDGES]
 
       drawNode(node[COORDS]);
 
       for (var e in edges) {
-        var edge = edges[e];
-        
-        drawEdge(node[COORDS], graph[edge][COORDS]);
+        edgeNode = graph[edges[e]];
+        drawEdge(node[COORDS], edgeNode[COORDS]);
       }      
     }
   }  
@@ -80,11 +79,11 @@ function graph3d(parent) {
     nodes
       .append("appearance")
       .append("material")
-      .attr("diffuseColor", [0, 0, 1]);
+      .attr("diffuseColor", "black");
     
     nodes
       .append("sphere")
-      .attr("radius", 0.1);
+      .attr("radius", 0.02);
   }
 
   function drawEdge(source, target) {
@@ -93,11 +92,15 @@ function graph3d(parent) {
       .append("lineSet")
       .attr("lineCount", 1);
 
+/**
+ * Color
+ *
     edges
       .append("color")
       .attr("DEF", "COLOR")
       .attr("color", [0, 0, 1, 0, 0, 1]);
-    
+ */
+
     edges
       .append("coordinate")
       .attr("point", [source.x, source.y, source.z,
