@@ -83,7 +83,7 @@ function graph3d(parent, json) {
     
     nodes
       .append("sphere")
-      .attr("radius", 0.02);
+      .attr("radius", 0.01);
   }
 
   function drawEdge(source, target) {
