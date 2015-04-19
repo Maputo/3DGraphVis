@@ -1,22 +1,39 @@
-function graph3d( parent ) {
+function graph3d(parent) {
   
-  var x3d;
-  var scene;
+  var x3d = parent  
+    .append("x3d")
+    .style("width", "100%")
+    .style("height", "100%")
+    .style("border", "none")
+
+  var scene = x3d.append("scene")
+  scene.append("viewpoint")
+    .attr("centerOfRotation", [10, 8.5, 0])
+    .attr("position", [10, 8.5, 25])
+
   var COORDS = "coords";
   var EDGES = "edges";
 
-  $.ajaxSetup({
-    async: false
-  });
+  loadJSON();
+  main();
 
-  $.getJSON("graph_small.json", function(graph_response) {
-    window.graph = graph_response;
-  });
 
-  $.ajaxSetup({
-    async: true
-  });
+  function loadJSON() {
 
+    $.ajaxSetup({
+      async: false
+    });
+
+    $.getJSON("graph_small.json", function(graph_response) {
+      window.graph = graph_response;
+    });
+
+    $.ajaxSetup({
+      async: true
+    });
+    
+  }
+  
   function main() {
 
     scaleGraph(graph);
@@ -47,21 +64,6 @@ function graph3d( parent ) {
     }
   }
 
-  function initX3d() {
-    x3d = parent  
-      .append("x3d")
-      .style("width", "99%")
-      .style("height", "99%")
-      .style("border", "none")
-  }
-  
-  function initScene() {
-    scene = x3d.append("scene")
-
-    scene.append("viewpoint")
-      .attr("centerOfRotation", [10, 8.5, 0])
-      .attr("position", [10, 8.5, 25])
-  }
 
   function Node(x, y, z) {
     this.x = x;
@@ -92,9 +94,9 @@ function graph3d( parent ) {
       .attr("lineCount", 1);
 
     edges
-    .append("color")
-    .attr("DEF", "COLOR")
-    .attr("color", [0, 0, 1, 0, 0, 1]);
+      .append("color")
+      .attr("DEF", "COLOR")
+      .attr("color", [0, 0, 1, 0, 0, 1]);
     
     edges
       .append("coordinate")
@@ -102,9 +104,4 @@ function graph3d( parent ) {
                       target.x, target.y, target.z]);
 
   }
-
-  initX3d();
-  initScene();      
-
-  main();
 }
