@@ -21,8 +21,7 @@
   </head>
   <body style="background-color: #F5F5F5">
     <div class="select">
-      <select id ="3Dgraph" name="3Dgraph" 
-              onchange="javascript: window.open(top.location.href.substring(0, top.location.href.indexOf('?')) + '?' + this.value, '_self')">
+      <select id ="3Dgraph" name="3Dgraph" onchange="window.location.href = '?' + this.value" > 
         <option value="" disabled selected style="display: none;">Select graph size</option>
         <option value='graph_small.json'>Small</option>
         <option value='graph_medium.json'>Medium</option>
